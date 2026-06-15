@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > This project isn't develop anymore.
 
 # ATTO Text Editor
